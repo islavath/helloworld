@@ -10,8 +10,8 @@
 
 
 <scm>
-	<connection>https://github.com/islavath/helloworld.git</connection>
-	<developerConnection>https://github.com/islavath/helloworld.git</developerConnection>
+	<connection>git:https://github.com/islavath/helloworld.git</connection>
+	<developerConnection>git:https://github.com/islavath/helloworld.git</developerConnection>
 </scm>
 
 <build>
