@@ -11,7 +11,7 @@
 
 <scm>
 	<connection>git:http://github.com/islavath/helloworld.git</connection>
-	<developerConnection>git:https://github.com/islavath/helloworld.git</developerConnection>
+	<developerConnection>git:http://github.com/islavath/helloworld.git</developerConnection>
 </scm>
 
 <build>
