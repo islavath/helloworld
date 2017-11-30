@@ -9,6 +9,11 @@
   <url>http://maven.apache.org</url>
 
 
+<scm>
+	<connection>https://github.com/islavath/helloworld.git</connection>
+	<developerConnection>https://github.com/islavath/helloworld.git</developerConnection>
+</scm>
+
 <distributionManagement>
     <repository>
       <id>release</id>
